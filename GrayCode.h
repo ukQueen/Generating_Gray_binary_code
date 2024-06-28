@@ -13,10 +13,9 @@ public:
 	GrayCode(int a);
 	int Getk();
 	 void Print();
-	//void ToNull(int a);
+	//void ToNull(int a); 
 	int Getn();
 	int GetCount();
 	vector <int> GetKrat();
 	vector<int> GetCodes();
 };
-

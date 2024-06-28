@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Diskret math lab 1.cpp" />
-    <ClCompile Include="Global.cpp" />
     <ClCompile Include="GrayCode.cpp" />
     <ClCompile Include="Multi.cpp" />
   </ItemGroup>

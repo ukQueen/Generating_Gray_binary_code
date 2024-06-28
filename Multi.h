@@ -31,3 +31,4 @@ public:
 	void Ar_Prod(Multi& a, Multi& b);//арифметическое произведение А и В
 
 };
+

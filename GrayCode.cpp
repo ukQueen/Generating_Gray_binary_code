@@ -89,7 +89,7 @@ vector <int> GrayCode::GetCodes() {
 /*
 void GrayCode::ToNull(int a) {
 	srand(time(0));
-		for (int i = 0; i < a; i++) {
+		for (int i = 0; i < a; i++) { 
 			int n = rand() % k ;
 			if (Krat[n] == 0)
 				i--;
